@@ -26,10 +26,6 @@ Welcome to my GitHub! I am a passionate cybersecurity professional and educator 
 * Burp Suite Pro, Metasploit Framework
 * AWS (Cloud Infrastructure & EC2 Management)
 
-### **Vulnerabilities Mastered**
-* SQL Injection (SQLi)
-* Cross-Site Scripting (XSS)
-* XML External Entity (XXE)
 
 ---
 
@@ -42,16 +38,10 @@ I actively hone my skills and maintain my edge on industry-leading platforms:
 
 ---
 
-## 📈 GitHub Stats
-
-![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisek865675&show_icons=true&theme=radium)
-
-
----
 
 ## 📫 Let's Connect
 
-* 💼 **LinkedIn:** [Abhisek on LinkedIn](#) *(Add your profile link here)*
-* 📧 **Email:** [Contact Me](abhisehekrana53184@gmail.com)
+* 💼 **LinkedIn:** [Abhisek on LinkedIn]
+* 📧 **Email:** (abhisehekrana53184@gmail.com)
 
 > *"Understanding the absolute mechanics of a system is the first step to dismantling its security."*
