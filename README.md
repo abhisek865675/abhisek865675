@@ -44,10 +44,8 @@ I actively hone my skills and maintain my edge on industry-leading platforms:
 
 ## 📈 GitHub Stats
 
-![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
+![Abhisek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhisek865675&show_icons=true&theme=radium)
 
-*(Make sure to replace `YOUR_GITHUB_USERNAME` in the image links above with your actual GitHub username!)*
 
 ---
 
