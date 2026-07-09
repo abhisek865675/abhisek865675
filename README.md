@@ -9,8 +9,9 @@ Welcome to my GitHub! I am a passionate cybersecurity professional and educator 
 ## 👨‍💻 About Me
 
 * 🎓 Currently working as a **Professional Cybersecurity Trainer**, guiding trainees through the complexities of ethical hacking and real-world security scenarios.
-* 🎥 Creator of **Script to Root**, a YouTube channel dedicated to documenting my learning journey and breaking down complex infosec concepts for beginners. 
+ 
 * ☁️ Regularly managing and experimenting within cloud environments, specifically building out **AWS Ubuntu EC2** instances for technical labs.
+* 
 * 🎯 Always hunting for the next challenge in Exploit Development, Vulnerability Assessment, and Advanced Privilege Escalation.
 
 ---
@@ -23,7 +24,7 @@ Welcome to my GitHub! I am a passionate cybersecurity professional and educator 
 * Exploit Development & Privilege Escalation
 
 ### **Tools & Cloud**
-* Burp Suite Pro, Metasploit Framework
+* Burp Suite Pro, Metasploit Framework 
 * AWS (Cloud Infrastructure & EC2 Management)
 
 
